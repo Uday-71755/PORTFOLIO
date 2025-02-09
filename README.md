@@ -1,6 +1,7 @@
 # Data Scientist
 
 
+
 ### Education
 - Masters, Data Science | Tagliatela College of Engineering, University of New Haven, West Haven, CT (2024-2026)
 
