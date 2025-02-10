@@ -1,10 +1,8 @@
-### Contact Me
 
-## LINKED IN
-## GITHUB 
+## [LINKED IN](https://www.linkedin.com/in/venkataudaykumaredara/)
+## [GITHUB](https://github.com/Uday-71755)
 ## vedar1@unh.newhaven.edu
 ## +1 (201)-423-1392 
-
 
 
 ### Data Scientist
@@ -16,6 +14,7 @@ to leveraging technical skills in data mining and cleaning to drive data-driven 
 
 ### Education
 Masters, Data Science, Tagliatela College of Engineering, University of New Haven, West Haven, CT (2024-2026)
+
 
 ### Work Experience
 ### Data Science Internship Course, PANTECH SOLUTIONS (2024-2024)
@@ -51,6 +50,7 @@ Decision Tree Classifier
 K Nearest Neighbors (KNN)
 Gaussian Naive Bayes
 Support Vector Machine
+
 The process begins with loading the dataset and providing a summary of its contents. Subsequently, it is essential to convert the class string values into numerical representations. Following this mapping, the dataset should be divided into features (X) and target labels (Y). The next step involves splitting the dataset into training and testing subsets. Feature scaling is then performed to ensure that all features contribute equally to the outcome. For the training data, the fit method is utilized to compute the mean and variance of each feature, while the transform method is applied to the testing data to adjust the features based on the previously calculated mean and variance. After these preparations, the model scores can be predicted by aggregating the results from all machine learning algorithms, allowing for a comparison of their accuracies through graphical representation. Finally, individual predictions for each machine learning model should be conducted.
 ![Breast Cancer Det](https://github.com/user-attachments/assets/55af3d4b-babf-4f94-b400-36cef6c55a50)
 
