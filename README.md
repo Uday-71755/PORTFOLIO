@@ -18,8 +18,8 @@ to leveraging technical skills in data mining and cleaning to drive data-driven 
 Masters, Data Science, Tagliatela College of Engineering, University of New Haven, West Haven, CT (2024-2026)
 
 
-### Work Experienc
-e
+### Work Experience
+
 ### Data Science Internship Course, PANTECH SOLUTIONS (2024-2024)
 • Acquired all basic skills about AI including the basic principles and some of its applications. 
 • Learned the application of data analysis techniques on Excel with emphasis on data cleaning, data visualization and analysis. 
