@@ -1,11 +1,12 @@
 
 ## [LINKED IN](https://www.linkedin.com/in/venkataudaykumaredara/)
 ## [GITHUB](https://github.com/Uday-71755)
-## [vedar1@unh.newhaven.edu]
+## [vedar1@unh.newhaven.edu](https://outlook.office365.com/mail/)
 ## [+1 (201)-423-1392]
 
 
 ### Data Scientist
+
 Prospective Data Scientist and Analyst with a strong foundation in AI and data analysis, acquired through comprehensive 
 internship experience and academic projects. I am proficient in data visualization and reporting techniques using tools like 
 Power BI and Tableau, and skilled in Python programming for machine learning and deep learning applications. Committed 
@@ -13,10 +14,12 @@ to leveraging technical skills in data mining and cleaning to drive data-driven 
 
 
 ### Education
+
 Masters, Data Science, Tagliatela College of Engineering, University of New Haven, West Haven, CT (2024-2026)
 
 
-### Work Experience
+### Work Experienc
+e
 ### Data Science Internship Course, PANTECH SOLUTIONS (2024-2024)
 • Acquired all basic skills about AI including the basic principles and some of its applications. 
 • Learned the application of data analysis techniques on Excel with emphasis on data cleaning, data visualization and analysis. 
@@ -28,6 +31,7 @@ operations.
 • Enhanced the python programming for the required machine learning and deep learning models.
 
 ### Projects
+
 ### 1.Prediction Of Cardiovascular Disease using ML and DL techniques (2023-2024)                   
 • The U-Net architecture is used for initial segmentation for retinal blood vessels. 
 • A CNN is employed to extract the pertinent features from the segmented vessels. 
@@ -92,6 +96,7 @@ Once the data was cleaned and structured, I loaded it into Power BI to create an
 
 
 ### Skills
+
 Data Visualization  : Microsoft Excel, PowerPoint, Tableau, Microsoft Power BI and AI.
 
 Data Analysis       : Python, SQL and Exploratory Data Analysis (EDA). 
