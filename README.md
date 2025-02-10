@@ -84,7 +84,7 @@ Analyzed customer data to forecast advertising sales through the application of 
 ![AD Sale](https://github.com/user-attachments/assets/417989e0-7915-42a4-ad66-877c02ea5541)
 
 
-### 9.Credit Crad Fraud Analysis (2024-2024) [https://github.com/Uday-71755/Credit-Card-Fraud-Analysis]
+### 9.Credit Crad Fraud Analysis (2024-2024)
 Analysing the credit frauds using the ML algorithm Linear Regression
 ![Credit Card Fraud](https://github.com/user-attachments/assets/fa536bd5-ecad-4d45-872d-9ba6276bb72b)
 
