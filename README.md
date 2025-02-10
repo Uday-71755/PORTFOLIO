@@ -1,8 +1,8 @@
 
 ## [LINKED IN](https://www.linkedin.com/in/venkataudaykumaredara/)
 ## [GITHUB](https://github.com/Uday-71755)
-## vedar1@unh.newhaven.edu
-## +1 (201)-423-1392 
+## [vedar1@unh.newhaven.edu]
+## [+1 (201)-423-1392]
 
 
 ### Data Scientist
