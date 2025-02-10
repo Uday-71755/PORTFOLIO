@@ -1,3 +1,12 @@
+### Contact Me
+
+## LINKED IN
+## GITHUB 
+## vedar1@unh.newhaven.edu
+## +1 (201)-423-1392 
+
+
+
 ### Data Scientist
 Prospective Data Scientist and Analyst with a strong foundation in AI and data analysis, acquired through comprehensive 
 internship experience and academic projects. I am proficient in data visualization and reporting techniques using tools like 
