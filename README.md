@@ -95,6 +95,27 @@ Once the data was cleaned and structured, I loaded it into Power BI to create an
 ![PowerBI](https://github.com/user-attachments/assets/c7f51cba-16de-47e2-bfff-3b7994f75a3c)
 
 
+### Certifications
+
+### 1.AI and Data Science
+![Internship Completion on AI and Data Science](https://github.com/user-attachments/assets/f5cbf3da-db57-4a97-b606-d618c1adb5cd)
+
+### 2.Data Engineering
+![Data Engineering](https://github.com/user-attachments/assets/eb6275f8-e6d0-452c-a2c6-c8a5c20e2df9)
+
+### 3.Python Working with REST and Web Data
+![Python Working with REST and Web Data](https://github.com/user-attachments/assets/8d9389e5-1dc1-4674-ae46-6836b39275a8)
+
+### 4.HTML Eseential Learning
+![HTML Eseential Learning](https://github.com/user-attachments/assets/e8591c18-70ac-497c-bde9-538be2ac44f3)
+
+### 5.SQL Programming
+![SQL Programming](https://github.com/user-attachments/assets/6cbbb5b7-edab-4ca0-a4b7-75382429a767)
+
+### 6.SQL Tips and Tricks for Data Science
+![SQL Tips and Tricks for Data Science](https://github.com/user-attachments/assets/4c609f8e-4721-4f96-a28f-8e453e921f9a)
+
+
 ### Skills
 
 Data Visualization  : Microsoft Excel, PowerPoint, Tableau, Microsoft Power BI and AI.
