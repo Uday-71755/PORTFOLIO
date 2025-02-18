@@ -115,6 +115,10 @@ Once the data was cleaned and structured, I loaded it into Power BI to create an
 ### 6.SQL Tips and Tricks for Data Science
 ![SQL Tips and Tricks for Data Science](https://github.com/user-attachments/assets/4c609f8e-4721-4f96-a28f-8e453e921f9a)
 
+### 7.Cloud NoSQL for SQL Professionals
+![Cloud NoSQL](https://github.com/user-attachments/assets/4f9d23d6-b423-4016-bfaa-9de280857325)
+
+
 
 ### Skills
 
