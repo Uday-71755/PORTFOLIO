@@ -118,6 +118,20 @@ Once the data was cleaned and structured, I loaded it into Power BI to create an
 ### 7.Cloud NoSQL for SQL Professionals
 ![Cloud NoSQL](https://github.com/user-attachments/assets/4f9d23d6-b423-4016-bfaa-9de280857325)
 
+### 8.Graph Databases Neo4j for Complex Data Relationships
+![Graph Databases Neo4j for Complex Data Relationships](https://github.com/user-attachments/assets/04b9f45f-86fa-4db7-ba53-34835810f56c)
+
+### 9.Python for Data Science Tips, Tricks, & Techniques
+![Python for Data Science Tips, Tricks,   Techniques](https://github.com/user-attachments/assets/842cc658-5a80-44cc-bdd9-ee6c70480168)
+
+### 10. Apache Kafka Essential Training 2021
+![Apache Kafka Essential Training 2021](https://github.com/user-attachments/assets/c80c5c62-a29f-4099-b7d5-a7f51bf9dce1)
+
+### 11. Amazon Web Services Data Services
+![Amazon Web Services Data Services](https://github.com/user-attachments/assets/8c6069f5-bc27-42cc-9aec-badda010c556)
+
+### 12. Apache Spark Essential Training Big Data Engineering 2021
+![Apache Spark Essential Training Big Data Engineering 2021](https://github.com/user-attachments/assets/d4853a1e-4173-4c88-a665-5ab82360180e)
 
 
 ### Skills
