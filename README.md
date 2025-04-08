@@ -136,23 +136,27 @@ Once the data was cleaned and structured, I loaded it into Power BI to create an
 
 ### Skills
 
-Data Visualization  : Microsoft Excel, PowerPoint, Tableau, Microsoft Power BI and AI.
+Data Visualization       : Microsoft Excel, PowerPoint, Tableau, Microsoft Power BI and AI- 
+                           Visualization tools. 
+                           
+Data Analysis            : Python, SQL and Exploratory Data Analysis (EDA). 
 
-Data Analysis       : Python, SQL and Exploratory Data Analysis (EDA). 
+Business Analysis        : Business Process Modeling, Documentation and Stakeholder Communication. 
 
-Languages           : SQL (SQL querying, Subqueries, Joins, Window Functions), Python programming (Pandas, NumPy). 
+Programming              : Python for data manipulation and analysis, SQL for database querying and 
+                           management.
+                           
+Tools                    : Jupyter Notebooks, Colab, Excel and AWS Quick Sight. 
 
-Tools               : Jupyter Notebooks, Colab, Excel and AWS QuickSight. 
+Cloud & AWS              : AWS S3, AWS Lambda, AWS RDS, AWS Redshift, AWS Glue, AWS EC2. 
 
-AI Tools            : ChatGPT, Bard, Canva and Scoop. 
-
-Cloud & AWS         : AWS S3, AWS Lambda, AWS RDS, AWS Redshift, AWS Glue, AWS EC2. 
-
-Core skills         : Data visualization and reporting techniques, Data warehousing, Data Mining, Data Cleaning and AI.
-
-Soft Skills         : Communication, Presentations, Critical Thinking, Time Management, Creativity and Adaptability. 
-
-Language Proficiency: English
+Core skills              : Data visualization, Business reporting, Data warehousing, Data Mining and 
+                           Data Cleaning. 
+                           
+Soft Skills              : Communication, Presentations, Critical Thinking, Time Management, Creativity 
+                           and Adaptability. 
+                           
+Language Proficiency     : English.
 
 
 
